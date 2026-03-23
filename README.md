@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Anurag 👋
 
-<!--
-**Batsyayan915/Batsyayan915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Student  
+💻 Interested in Digital Design, FPGA, and AI  
+🚀 Currently building engineering projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Verilog HDL
+- Digital Logic Design
+- Xilinx Vivado
+- Git & GitHub
+- Python (Learning)
+
+---
+
+## 🚀 Featured Project
+### 🚦 Traffic Light Controller using Verilog
+Designed a traffic signal controller using **Verilog HDL** and simulated it using **Xilinx Vivado**.
+
+Repository:
+https://github.com/Batsyayan915/traffic-light-controller-verilog
+
+---
+
+## 📫 Connect With Me
+GitHub: https://github.com/Batsyayan915
