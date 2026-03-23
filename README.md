@@ -21,6 +21,10 @@ Designed a traffic signal controller using **Verilog HDL** and simulated it usin
 
 Repository:
 https://github.com/Batsyayan915/traffic-light-controller-verilog
+### Simulation Waveform
+
+![Traffic Light Waveform](https://github.com/Batsyayan915/traffic-light-controller-verilog/blob/main/waveform.png)
+
 
 ---
 
