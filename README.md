@@ -1,12 +1,16 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anurag+Batsyayan;Electronics+%26+Communication+Engineer;FPGA+%7C+Verilog+%7C+Digital+Design;Learning+AI+%26+Python)
+
 # Hi, I'm Anurag 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Batsyayan915&color=blue)
 
 🎓 Electronics & Communication Engineering Student  
 💻 Interested in Digital Design, FPGA, and AI  
 🚀 Currently building engineering projects.
+)
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Technologies
 
 ![Verilog](https://img.shields.io/badge/Verilog-HDL-blue)
 ![Digital Logic](https://img.shields.io/badge/Digital%20Logic-Design-green)
