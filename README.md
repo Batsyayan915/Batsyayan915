@@ -42,8 +42,6 @@ GitHub: https://github.com/Batsyayan915
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Batsyayan915/Batsyayan915/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Batsyayan915/Batsyayan915/output/github-contribution-grid-snake.svg)
 
 
