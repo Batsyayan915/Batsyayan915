@@ -15,12 +15,13 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=github,git,python" />
 </p>
-Verilog HDL
-Digital Logic Design
-Xilinx Vivado
-Git & GitHub
-Python (Learning)
 
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue)
+![Digital Logic](https://img.shields.io/badge/Digital%20Logic-Design-green)
+![Vivado](https://img.shields.io/badge/Xilinx-Vivado-red)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
 ---
 
 ## 🚀 Featured Project
