@@ -30,3 +30,11 @@ https://github.com/Batsyayan915/traffic-light-controller-verilog
 
 ## 📫 Connect With Me
 GitHub: https://github.com/Batsyayan915
+---
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batsyayan915&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batsyayan915&layout=compact&theme=tokyonight)
+
