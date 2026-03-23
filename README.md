@@ -40,3 +40,10 @@ GitHub: https://github.com/Batsyayan915
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batsyayan915&layout=compact&theme=tokyonight)
 
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Batsyayan915/Batsyayan915/blob/output/github-contribution-grid-snake.svg)
+
+
