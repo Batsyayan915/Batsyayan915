@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,10 +16,9 @@ jobs:
           github_user_name: Batsyayan915
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
+
